@@ -6,6 +6,7 @@ A small collection of Python utility functions.
 
 - `greet(name)` — returns a personalised greeting string
 - `add(a, b)` — returns the sum of two numbers
+- `subtract(a, b)` — returns the difference of two numbers
 
 ## Usage
 
